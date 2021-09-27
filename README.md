@@ -2,7 +2,7 @@
 
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/UvVM1MEuOPf4sElqWo/giphy-downsized-large.gif?cid=ecf05e47d01j5ta52zlmtohxqvuqb7e13u2yf944nor3coun&rid=giphy-downsized-large.gif&ct=g" />
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
