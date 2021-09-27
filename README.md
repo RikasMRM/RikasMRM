@@ -10,9 +10,10 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
+
+</p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rikasmrm)](https://www.linkedin.com/in/rikasmrm/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rikasrkf@gmail.com)](mailto:rikasrkf@gmail.com)
 ,[![Twitter Badge](https://img.shields.io/badge/-Rikas-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/RkRikas)](https://twitter.com/RkRikas)
-</div>
-</p>
 
