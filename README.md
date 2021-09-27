@@ -16,13 +16,8 @@
 &nbsp; <a href="mailto:rikasrkf@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<i>Follow me:</i><br>
-
-<a href="https://www.linkedin.com/in/rikasmrm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/rk.rikas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/RkRikas" target="_blank"><img src="https://img.shields.io/twitter/-%23E4405F.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-
+<i>Reach me:</i><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rikasmrm)](https://www.linkedin.com/in/rikasmrm/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rikasrkf@gmail.com)](mailto:rikasrkf@gmail.com)
-,[![Twitter Badge](https://img.shields.io/badge/-Raghav-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/RkRikas)](https://twitter.com/RkRikas)
+,[![Twitter Badge](https://img.shields.io/badge/-Rikas-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/RkRikas)](https://twitter.com/RkRikas)
 </div>
