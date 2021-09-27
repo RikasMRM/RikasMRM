@@ -1,12 +1,12 @@
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://media.giphy.com/media/3osxYiZWL3jLPBCKlO/giphy.gif?cid=790b76119d242ee899ff8bc393c531317fc7bd6c5178e4e4&rid=giphy.gif&ct=g" width="30px"></h2>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a Software Engineer Undergraduate at SLIIT
+- I’m currently a Software Engineer Undergraduate at SLIIT
 <!-- - 📚 I’m currently learning  frontend web development using ReactJS, Redux.
 - 👯 I’m looking for a software development internship.  -->
 
