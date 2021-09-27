@@ -16,6 +16,9 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiran98&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rikasmrm)](https://www.linkedin.com/in/rikasmrm/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rikasrkf@gmail.com)](mailto:rikasrkf@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-Rikas-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/RkRikas)](https://twitter.com/RkRikas)
