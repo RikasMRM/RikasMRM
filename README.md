@@ -20,6 +20,5 @@
 
 <a href="https://www.linkedin.com/in/rikasmrm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/rk.rikas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://twitter.com/RkRikas" target="_blank"><img src="https://img.shields.io/twitter/url?style=social" alt="Twitter"></a>
+<a href="https://twitter.com/RkRikas" target="_blank"><img src="https://img.shields.io/twitter/-%23E4405F.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
