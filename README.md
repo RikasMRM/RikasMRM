@@ -1,5 +1,11 @@
 
 <h1> Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" I'm Rikas width="30px">, I'm Rikas <img src="https://camo.githubusercontent.com/667a1b5f72fd3bea2f990da4a75cd30b92899281133f8b3cd2d9d6dbfe3d39b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" width="30"></h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 <!-- https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif -->
 
 <!-- <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
