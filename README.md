@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RikasMRM&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RikasMRM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=RkRikas)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet -->
+<!-- [![](https://gtce.itsvg.in/api?username=RkRikas)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RikasMRM&icon=2&color=1)](https://visitcount.itsvg.in)
