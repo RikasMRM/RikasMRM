@@ -10,10 +10,10 @@
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=RikasMRM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <div style="display:flex; flex-direction:row;">
-  <div style="flex:1; margin-right:20px;">
+  <div style="flex:1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikasMRM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
   </div>
-  <div style="flex:1; margin-left:20px;">
+  <div style="flex:1;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RikasMRM&theme=tokyonight&hide_border=false">
   </div>
 </div>
