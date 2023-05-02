@@ -17,7 +17,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RikasMRM&theme=tokyonight&hide_border=false">
   </div>
 </div>
-
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=RikasMRM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[](https://github-readme-streak-stats.herokuapp.com/?user=RikasMRM&theme=tokyonight&hide_border=false)
 <!-- ## 🐦 Latest Tweet -->
 <!-- [![](https://gtce.itsvg.in/api?username=RkRikas)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
