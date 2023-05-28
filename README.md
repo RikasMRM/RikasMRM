@@ -1,7 +1,7 @@
 
 <h1> Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" I'm Rikas width="30px">, I'm Rikas <img src="https://camo.githubusercontent.com/667a1b5f72fd3bea2f990da4a75cd30b92899281133f8b3cd2d9d6dbfe3d39b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966" width="30"></h1>
 
-
+[![](https://visitcount.itsvg.in/api?id=RikasMRM&icon=2&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rikasrk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rikasmrm) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rikasmrm) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15252943/rikas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RkRikas) 
 
@@ -42,11 +42,8 @@
 
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=RikasMRM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RikasMRM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RikasMRM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RikasMRM&theme=tokyonight&hide_border=false)<br/>
 
 <!-- ## 🐦 Latest Tweet -->
 <!-- [![](https://gtce.itsvg.in/api?username=RkRikas)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=RikasMRM&icon=2&color=1)](https://visitcount.itsvg.in)
