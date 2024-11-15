@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=RikasMRM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RikasMRM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RikasMRM&theme=dark)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RikasMRM&theme=transparent)](https://git.io/streak-stats)<br/>
 
 <!-- ## 🐦 Latest Tweet -->
 <!-- [![](https://gtce.itsvg.in/api?username=RkRikas)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
